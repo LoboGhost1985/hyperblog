@@ -1,6 +1,2 @@
 Hola Git
-agregando contenido
-en nueva linea
-
-agregando una linea 5
-agregando una linea 6
+cambios en el contenido del archivo
